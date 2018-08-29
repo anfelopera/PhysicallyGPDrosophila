@@ -2,6 +2,8 @@
 
 This repository contains the R implementation of two types of physically-inspired GPs based on the reaction-diffusion equation [1]. The main difference between both approaches lies on whether the GP prior is placed: either over mRNA expressions or protein concentrations. Both GP models are tested under different conditions depending on the availability of biological data.
 
+**Authors:** Andrés Felipe López-Lopera (Mines Saint-Étienne) with contributions from Nicolas Durrande (Mines Saint-Étienne, Prowler.io) and Mauricio Álvarez (The University of Sheffield).
+
 ### Main dependences (R packages):
 1. kergp: Gaussian process models with customised covariance kernels [4].
 2. NORMT3: evaluates complex erf, erfc, Faddeeva, and density of sum of Gaussian and Student’s t [5].
