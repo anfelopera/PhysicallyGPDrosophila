@@ -11,7 +11,8 @@ This repository contains the R implementation of two types of physically-inspire
 
 ### References:
 
-[1] A. F. López-Lopera, N. Durrande and M. A. Álvarez. 2018. Physically-inspired Gaussian processes for transcriptional regulation in Drosophila melanogaster. ArXiv E-Prints.
+[1] A. F. López-Lopera, N. Durrande and M. A. Álvarez. 2018. Physically-inspired Gaussian processes for transcriptional regulation in Drosophila melanogaster. ArXiv E-Prints. [[link]](https://arxiv.org/abs/1808.10026)
+
 
 [2] M. A. Álvarez, D. Luengo, and N. D. Lawrence. 2013. Linear Latent Force Models Using Gaussian Processes. Pattern Analysis and Machine Intelligence, IEEE Transactions on, 35(11):2693–2705.
 
